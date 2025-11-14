@@ -49,6 +49,7 @@ Note: This repository has been made public on Friday, November 14th, 2025. You s
 | **Machine Learning Optimization** 
 | Giampiccolo, R., Mezza, A. I., & Bernardini, A. "Differentiable MIMO Feedback Delay Networks for Multichannel Room Impulse Response Modeling," In Proceedings of the 27th International Conference on Digital Audio Effects (DAFx24) (pp. 278-285). | 2024 | .. | .. | .. | .. | 
 | Giampiccolo, R., Mezza, A. I., Pezzoli, M., Koyama, S., Bernardini, A., & Antonacci, F., "Modeling the Impulse Response of Higher-Order Microphone Arrays using Differentiable Feedback Delay Networks", In Proceedings of the International Conference on Digital Audio Effects (DAFx25) (pp. 180-187). | 2025 | .. | .. | .. | .. | 
+| Scerbo, M., Schlecht, S. J., Ali, R., Savioja, L., & De Sena, E., "Efficient Multichannel Auralization Based on the Modal Decomposition of Acoustic Radiance Transfer (MoD-ART)," in IEEE Transactions on Audio, Speech, and Language Processing. | 2025 | .. | .. | .. | .. | 
 | .. | .. | .. | .. | .. | .. | 
 
 ## Scattering Delay Networks
